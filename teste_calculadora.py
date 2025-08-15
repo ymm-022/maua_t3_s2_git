@@ -7,5 +7,3 @@ import calculadora
 # Teste - SOMA. #
 resultado1 = calculadora.somar(3, 5)
 print(resultado1)
-
-# Teste - SUBTRAÇÃO. #

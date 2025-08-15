@@ -7,4 +7,8 @@ def somar(a, b):
 
 # SUBTRAÇÃO.
 def subtrair (a, b):
-    return a- b
+    return a - b
+
+# MULTIPLICAÇÃO.
+def multiplicar (a, b):
+    return a * b

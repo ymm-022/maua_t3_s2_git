@@ -12,3 +12,7 @@ def subtrair (a, b):
 # MULTIPLICAÇÃO.
 def multiplicar (a, b):
     return a * b
+
+# DIVISÃO.
+def dividir (a, b):
+    return a / b
